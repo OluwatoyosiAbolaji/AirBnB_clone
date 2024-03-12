@@ -55,5 +55,5 @@ Project is: _in progress_
 ## Inspiration
 Project inspired by the [AirBnb](https://www.airbnb.com/) Website, based on tasks provided by ALX Holberton softwware engineer Airbnb_Clone project
 
-## Authors
+## Author
 - Oluwatoyosi Abolaji --> [OluwatoyosiAbolaji](https://github.com/OluwatoyosiAbolaji)
