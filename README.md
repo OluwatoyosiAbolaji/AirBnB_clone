@@ -56,5 +56,4 @@ Project is: _in progress_
 Project inspired by the [AirBnb](https://www.airbnb.com/) Website, based on tasks provided by ALX Holberton softwware engineer Airbnb_Clone project
 
 ## Authors
-- Toluwalase Phillips --> [Teepee78](https://github.com/Teepee78)
-- Rediet Tadesse --> [Reid-T-W](https://github.com/Reid-T-W)
+- Oluwatoyosi Abolaji --> [OluwatoyosiAbolaji](https://github.com/OluwatoyosiAbolaji)
